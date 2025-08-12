@@ -1,0 +1,29 @@
+button{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 35px;
+    padding-right: 45px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image:url(https://img.freepik.com/free-photo/brown-watercolor-leaf-background-aesthetic-autumn-season_53876-143134.jpg?semt=ais_hybrid&w=740&q=80);
+margin-top: 100px;
+}
+button:hover{
+    color: brown;
+    background-image: linear-gradient(to right, brown, rgb(243, 234, 151));
+
+}
+#box{
+    margin-left: 10px;
+    width: 100%;
+    padding: 5px;
+}
+input{
+    padding: 40px;
+    padding-right: 180px;
+    border-radius: 20px;
+    margin-left: -25px;
+}
